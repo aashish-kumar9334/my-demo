@@ -1,4 +1,4 @@
 # my-demo
 This is my first git repository.
 <br>
-Author-Aashish kumar
+Author-Aashish (quantum)
